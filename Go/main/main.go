@@ -1,8 +1,9 @@
 package main
 
 import (
-	"fizzbuzz"
 	"fmt"
+
+	"github.com/rafaeldiazmiles/testFizzBuzz/fizzbuzz"
 )
 
 func main() {
